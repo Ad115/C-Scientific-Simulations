@@ -1,0 +1,6 @@
+**/.fuse_hidden*
+**/.ipynb_checkpoints/
+**/vscode/
+**/*.o
+**/*.out
+
