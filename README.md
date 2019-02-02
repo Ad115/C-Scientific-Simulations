@@ -10,6 +10,9 @@ Scientific simulations in C
 A bunch of scientific simulations with respective visualizations done in C and
 visualized in Javascript with [p5.js](http://hello.p5js.org/).
 
+Each folder's README file contains instructions on how to compile and visualize 
+each system. Send any comments to agg.unam@ciencias.unam.mx .
+
 The simulated systems are the following:
 
 Ising model in 1D
